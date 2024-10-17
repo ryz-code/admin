@@ -14,7 +14,10 @@ const nextConfig = {
   i18n,
   images: {
     domains: [
-      '127.0.0.1:8000',
+      'https://vps.nontonjav.com',
+      'https://nontonjav.com',
+      'https://codenine.top',
+      'https://admin-seven-ecru.vercel.app',
       'via.placeholder.com',
       'res.cloudinary.com',
       's3.amazonaws.com',
